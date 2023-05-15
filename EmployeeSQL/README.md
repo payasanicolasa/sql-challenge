@@ -1,7 +1,7 @@
 **Employees Analysis**<br>
 <br>
 *Project Description:*<br>
-It’s been two weeks since you were hired as a new data engineer at Pewlett Hackard (a fictional company). Your first major task is to do a research project about people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.<br>
+The following is a research project about people whom a company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.<br>
 <br>
 This project contains tables to hold data from CSV files, imports CSV files into a SQL database, and then answers questions about the data (showcasing data modeling, data engineering, and data analysis).<br>
 <br>
